@@ -1,0 +1,25 @@
+{
+  "name": "carsregister",
+  "version": "1.0.0",
+  "description": "cars register app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindazub/carsregister.git"
+  },
+  "author": "mindazub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindazub/carsregister/issues"
+  },
+  "homepage": "https://github.com/mindazub/carsregister#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mongod": "^2.0.0"
+  }
+}
